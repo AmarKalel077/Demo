@@ -1,11 +1,10 @@
 body{
     display: flex;
 }
+
 body{
     display: block;
 }
-=======
 body{
-    display: flex;
+    margin: 10px;
 }
-
