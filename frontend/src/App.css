@@ -1,9 +1,11 @@
-<<<<<<< Updated upstream
-=======
 body{
     display: flex;
 }
 body{
     display: block;
 }
->>>>>>> Stashed changes
+=======
+body{
+    display: flex;
+}
+
