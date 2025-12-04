@@ -76,7 +76,7 @@ const App = () => {
 
               <p>Home</p>
             </div>
-            <div className="border-t-2 border-black my-2"></div>
+            <div className="border-t-2 border-black my-2">Hello World</div>
 
             <div className="flex gap-2 items-center hover:text-2xl cursor-pointer">
               <svg
@@ -144,6 +144,7 @@ const App = () => {
                 />
               </svg>
               <p>Verbal Ability</p>
+              <h1>Nouman Ansari</h1>
             </div>
             <div className="flex gap-2 items-center hover:text-2xl cursor-pointer">
               <svg
